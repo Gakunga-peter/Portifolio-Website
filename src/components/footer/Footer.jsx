@@ -6,9 +6,9 @@ import {BsLinkedin} from 'react-icons/bs'
 const footer = () => {
   return (
     <footer>
-      <a href='#' className='footer_logo'>PETER GAKUNGA</a>
+      <a href='#footer' className='footer_logo'>PETER GAKUNGA</a>
       <ul className='permalinks'>
-        <li><a href="#">Home</a></li>
+        <li><a href="#header">Home</a></li>
         <li> <a href="#about">About</a></li>
         <li> <a href="#experience">Experience</a></li>
         <li> <a href="#services">Services</a></li>
@@ -16,9 +16,9 @@ const footer = () => {
         <li> <a href="#contact">Contact</a></li>
       </ul>
       <div className="footer_socials">
-        <a href='https://facebook.com/samuel.gakunga.1' target="_blank">< FaFacebook/></a>
-        <a href='https://twitter.com/PeterGakunga6' target="_blank">< BsTwitter/></a>
-        <a href='https://linkedin.com/in/peter-gakunga-a43a06224/?trk=public_profile_samename-profile&originalSubdomain=ke' target="_blank"><BsLinkedin/></a>
+        <a rel="noreferrer" href='https://facebook.com/samuel.gakunga.1' target="_blank">< FaFacebook/></a>
+        <a rel="noreferrer" href='https://twitter.com/PeterGakunga6' target="_blank">< BsTwitter/></a>
+        <a rel="noreferrer" href='https://linkedin.com/in/peter-gakunga-a43a06224/?trk=public_profile_samename-profile&originalSubdomain=ke' target="_blank"><BsLinkedin/></a>
       </div>
       <div className="footer_copyright">
         <small>&copy;PETER GAKUNGA. All rights reserved</small>

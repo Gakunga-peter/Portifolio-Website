@@ -27,21 +27,21 @@ const Contant = () => {
             <MdAttachEmail className='contact_option-icon'/>
             <h4>Email</h4>
             <h5>gakungakyle@gmail.com</h5>
-            <a href='mailto:gakungakyle@gmail.com' target='_blank'>Send a message</a>
+            <a rel="noreferrer" href='mailto:gakungakyle@gmail.com' target='_blank'>Send a message</a>
           </article>
 
           <article className='contact_option'>
             <FaWhatsappSquare className='contact_option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+254718667509</h5>
-            <a href='htpps://api.whatsapp.com/send?phone+254718667509' target='_blank'>Send a message</a>
+            <a rel="noreferrer" href='htpps://api.whatsapp.com/send?phone+254718667509' target='_blank'>Send a message</a>
           </article>
 
           <article className='contact_option'>
             <BsMessenger className='contact_option-icon'/>
             <h4>Messenger</h4>
             <h5>Gakunga Peter</h5>
-            <a href='https://m.me/samuel.gakunga.1' target='_blank'>Send a message</a>
+            <a rel="noreferrer" href='https://m.me/samuel.gakunga.1' target='_blank'>Send a message</a>
           </article>
 
 
