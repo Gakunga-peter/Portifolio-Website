@@ -119,7 +119,6 @@ a{
  }
 
 
-
  /*Media queries (Medium devices)*/
  @media screen  and (max-width:1024px){
     .container{
@@ -141,3 +140,5 @@ a{
     }
     
  }
+
+/* Width and height of the scrollbar track */

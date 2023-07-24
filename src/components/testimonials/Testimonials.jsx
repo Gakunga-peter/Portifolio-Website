@@ -21,7 +21,7 @@ const data = [
   },
   {
     avatar:'#',
-    name: 'Samauel',
+    name: 'Samuel Kiragu',
     review:' Define perfection, Not well praised',
 
   },
@@ -33,7 +33,7 @@ const data = [
   },
   {
     avatar:'#',
-    name:'Jane k.M',
+    name:'Jane K.M',
     review:'I have never made a better decision',
 
   }
