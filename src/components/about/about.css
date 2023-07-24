@@ -24,19 +24,8 @@
     height:auto;
     border-radius: 2rem;
     overflow:hidden;
-    transform: rotate(10deg);
     transition:var(--trasition);
 }
-   /* .about_me-image img{
-        width:100%;
-        height:auto;
-        display:block;
-} */
-
-.about_me-image:hover {
-    transform: rotate(0); 
-}
-
 .about_cards{
     display:grid;
     grid-template-columns:repeat(3, 1fr);
