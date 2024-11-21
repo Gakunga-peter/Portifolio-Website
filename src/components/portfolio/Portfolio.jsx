@@ -32,7 +32,7 @@ const data=[
     id: 4,
     image:img4,
     title:'Blogs Website',
-    github:'https://github.com/Gakunga-peter/Gakunga-peter',
+    github:'https://github.com/Gakunga-peter/CleaningServicesRiyad',
     demo:'https://github.com/Gakunga-peter'
   },
   {
