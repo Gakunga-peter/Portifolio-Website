@@ -21,7 +21,7 @@ const footer = () => {
         <a rel="noreferrer" href='https://linkedin.com/in/peter-gakunga-a43a06224/?trk=public_profile_samename-profile&originalSubdomain=ke' target="_blank"><BsLinkedin/></a>
       </div>
       <div className="footer_copyright">
-        <small>&copy;PETER GAKUNGA. All rights reserved</small>
+        <small>&copy;Effie Writer. All rights reserved</small>
       </div>
     </footer>
   )
