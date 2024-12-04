@@ -40,7 +40,7 @@ const Contant = () => {
           <article className='contact_option'>
             <BsMessenger className='contact_option-icon'/>
             <h4>Messenger</h4>
-            <h5>Effie writer </h5>
+            <h5>Gakunga Peter </h5>
             <a rel="noreferrer" href='https://m.me/samuel.gakunga.1' target='_blank'>Send a message</a>
           </article>
 
