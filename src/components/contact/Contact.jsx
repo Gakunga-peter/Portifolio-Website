@@ -26,15 +26,15 @@ const Contant = () => {
           <article className='contact_option'>
             <MdAttachEmail className='contact_option-icon'/>
             <h4>Email</h4>
-            <h5>rteet0890@gmail.com</h5>
+            <h5>gakungakyle@gmail.com</h5>
             <a rel="noreferrer" href='mailto:gakungakyle@gmail.com' target='_blank'>Send a message</a>
           </article>
 
           <article className='contact_option'>
             <FaWhatsappSquare className='contact_option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+1 (775) 253-7046</h5>
-            <a rel="noreferrer" href='htpps://api.whatsapp.com/send?phone+1775253-7046' target='_blank'>Send a message</a>
+            <h5>+ (254) 71866-7509</h5>
+            <a rel="noreferrer" href='htpps://api.whatsapp.com/send?phone+254718667509' target='_blank'>Send a message</a>
           </article>
 
           <article className='contact_option'>
